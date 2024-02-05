@@ -1,6 +1,6 @@
 # https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/
 
-import speechrecognition as sr
+import speech_recognition as sr
 import pyttsx3
 
 # Initialize the recognizer
